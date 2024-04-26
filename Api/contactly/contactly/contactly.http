@@ -1,0 +1,6 @@
+@contactly_HostAddress = http://localhost:5285
+
+GET {{contactly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
